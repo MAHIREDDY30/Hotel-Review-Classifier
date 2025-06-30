@@ -10,7 +10,7 @@ This project uses machine learning to classify hotel reviews into relevant categ
 
 ## 🚀 Try it in Colab
 
-[[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][(https://colab.research.google.com/github/MAHIREDDY30/hotel-review-classifier/blob/main/hotel_review.ipynb)]](https://colab.research.google.com/drive/1-1B2r2LAEzpuFSh3XkNsqbt7JM9yFYKZ?usp=sharing)
+[[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-1B2r2LAEzpuFSh3XkNsqbt7JM9yFYKZ?usp=sharing)
 
 ---
 
